@@ -1,2 +1,2 @@
-# Test-Repo
-testing GitHub
+# About Me 
+Mechanical Engineering with hands-on training in industrial and mechanical systems. Skilled in design, project management, financial operations, and data analysis using tools like Excel, Power BI, SQL, and Python. Brings a strong foundation in problem-solving, leadership, and teamwork to technical and data-driven environments. Passionate about delivering efficient, innovative solutions and supporting continuous improvement. Eager to contribute to projects that bridge engineering and analytics for impactful outcomes
